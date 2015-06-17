@@ -1,0 +1,1 @@
+datalog ${application.formatted-version}
