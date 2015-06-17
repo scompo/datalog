@@ -1,4 +1,4 @@
-package com.github.scompo.datalog.api.v1.tables.beans;
+package com.github.scompo.datalog.api.v1.tables.bean;
 
 import com.github.scompo.datalog.api.v1.users.bean.User;
 
