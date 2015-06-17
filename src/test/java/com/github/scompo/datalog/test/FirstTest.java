@@ -1,4 +1,4 @@
-package datalog;
+package com.github.scompo.datalog.test;
 
 import static org.junit.Assert.*;
 
