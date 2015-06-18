@@ -12,6 +12,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.web.client.RestTemplate;
 
 import com.github.scompo.datalog.api.hello.HelloController;
+import com.github.scompo.datalog.test.commons.TransactionalIntegrationTest;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @TransactionalIntegrationTest
